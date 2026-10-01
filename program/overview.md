@@ -5,6 +5,7 @@
 4. [Âm giai](./4.scale.md)
 5. [Guitar Tab](./5.guitar_tab.md)
 6. [Bài tập 2 - Warm up - String permutation](./6.string_permutation_exercise.md)
+7. [Quãng và Hợp Âm cơ bản](./7.interval_and_chord.md)
 
 # Thư viện các bài tập
 - [Spider Walk 1](../exercise/spirder_walk_1.gp)
